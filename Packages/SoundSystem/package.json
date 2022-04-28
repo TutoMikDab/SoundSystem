@@ -1,0 +1,10 @@
+{
+  "name": "com.tutomikdab.soundsystemmodule",
+  "version": "0.0.1",
+  "displayName": "Sound System Module",
+  "description": "Sound system module for TutoTOONS games",
+  "author": {
+    "name": "Mikas",
+    "email": "mikas.dabasinskas@tutotoons.com"
+  }
+}
